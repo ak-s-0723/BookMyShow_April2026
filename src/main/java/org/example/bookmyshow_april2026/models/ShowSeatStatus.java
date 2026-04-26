@@ -3,5 +3,5 @@ package org.example.bookmyshow_april2026.models;
 public enum ShowSeatStatus {
     AVAILABLE,
     BOOKED,
-    BLOCKED
+    OUT_OF_SERVICE
 }
