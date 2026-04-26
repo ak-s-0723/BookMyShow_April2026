@@ -8,4 +8,5 @@ public class Payment extends BaseModel {
     private PaymentMode paymentMode;
     private Double amount;
     private Date time;
+    private Booking booking;
 }
