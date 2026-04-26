@@ -10,5 +10,4 @@ public class Movie extends BaseModel {
     private Long duration;
     private String description;
     private List<String> languages;
-
 }

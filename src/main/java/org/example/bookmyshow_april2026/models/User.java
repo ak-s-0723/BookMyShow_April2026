@@ -5,4 +5,5 @@ import java.util.List;
 public class User extends BaseModel {
     private String emailId;
     private List<Booking> bookings;
+    private String name;
 }
